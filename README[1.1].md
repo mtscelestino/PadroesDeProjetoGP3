@@ -22,3 +22,15 @@ Basicamente o padrão de projeto prototype utiliza de uma estratégia, a qual co
 
 
 Exemplo implementado:
+
+
+
+
+# Composite
+
+## O que é?
+
+O Composite é um padrão de projeto que descreve um grupo de objetos que é tratado do mesmo jeito que uma única instância do mesmo tipo de objeto. A intenção do Composite é "compor" objetos em estruturas de árvore que representam hierarquias parte-todo. Ele permite que você tenha uma estrutura de árvore e peça cada nó da árvore pra fazer uma tarefa diferente.
+
+## Quando usar?
+
