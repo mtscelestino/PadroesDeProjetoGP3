@@ -4,7 +4,7 @@ Repositório da atividade prática sobre padrões de projeto do Grupo 03 da disc
 ### Grupo
 João Victor da Silva Prado  
 Mateus Souza Celestino  
-Henrique Queiroz  
+Henrique Miranda Queiroz  
 
 # Prototype
 
