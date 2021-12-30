@@ -53,3 +53,29 @@ O Composite é um padrão de projeto que descreve um grupo de objetos que é tra
 
 ## Quando usar?
 
+É indicado usar o padrão Composite quando você tem que implementar uma estrutura de objetos tipo árvore. Ele fornece dois tipos básicos de elementos que compartilham uma interface comum: folhas simples e contêineres complexos. Um contêiner pode ser composto tanto de folhas como por outros contêineres. 
+
+## Estrutura
+
+![image](https://user-images.githubusercontent.com/33666609/147779681-b0f4ef23-2630-463c-985d-6962da4eb654.png)
+
+
+## Exemplo implementado
+
+- Primeiro criamos a classe abstrata AComponent
+
+![image](https://user-images.githubusercontent.com/33666609/147779805-a806fd04-e937-4879-8558-e42e6e9a4e43.png)
+
+- Após isso criamos as classes Composite e Leaf 
+
+![image](https://user-images.githubusercontent.com/33666609/147784204-0d0b77f6-0dc7-41ca-8420-d1caf6a535f3.png)
+
+![image](https://user-images.githubusercontent.com/33666609/147784279-e9b9cd17-581c-4d95-87d3-58c30b2ec9c2.png)
+
+- Por fim a função main
+
+![image](https://user-images.githubusercontent.com/33666609/147784341-2b8486a9-6c41-40d3-82c9-e98c92c6dec2.png)
+
+- Executando o código main temos essas saídas
+
+![image](https://user-images.githubusercontent.com/33666609/147779579-c4e6fa85-3327-4139-be3f-76a546bfd0b6.png)
