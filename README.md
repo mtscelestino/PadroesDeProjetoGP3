@@ -72,10 +72,10 @@ O Composite é um padrão de projeto que descreve um grupo de objetos que é tra
 
 ![image](https://user-images.githubusercontent.com/33666609/147784279-e9b9cd17-581c-4d95-87d3-58c30b2ec9c2.png)
 
-- Por fim a função main
+- Por fim temos a função main, botando em prática o exemplo escolhido
 
 ![image](https://user-images.githubusercontent.com/33666609/147785908-b5ce038d-ed2a-43c2-8345-d029169b3752.png)
 
-- Executando o código main temos essas saídas
+- Executando o código main obtemos essa saída:
 
 ![image](https://user-images.githubusercontent.com/33666609/147779579-c4e6fa85-3327-4139-be3f-76a546bfd0b6.png)
