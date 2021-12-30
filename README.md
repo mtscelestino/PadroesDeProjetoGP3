@@ -62,11 +62,11 @@ O Composite é um padrão de projeto que descreve um grupo de objetos que é tra
 
 ## Exemplo implementado
 
-- Primeiro criamos a classe abstrata AComponent
+- Como iremos trabalhar com componentes, primeiro criamos a classe abstrata AComponent
 
 ![image](https://user-images.githubusercontent.com/33666609/147779805-a806fd04-e937-4879-8558-e42e6e9a4e43.png)
 
-- Após isso criamos as classes Composite e Leaf 
+- Após isso criamos as classes Composite e Leaf, a Composite representa uma caixa de itens individuais que também é vista como item compost e o Leaf que é o item individual
 
 ![image](https://user-images.githubusercontent.com/33666609/147784204-0d0b77f6-0dc7-41ca-8420-d1caf6a535f3.png)
 
@@ -74,7 +74,7 @@ O Composite é um padrão de projeto que descreve um grupo de objetos que é tra
 
 - Por fim a função main
 
-![image](https://user-images.githubusercontent.com/33666609/147784341-2b8486a9-6c41-40d3-82c9-e98c92c6dec2.png)
+![image](https://user-images.githubusercontent.com/33666609/147785908-b5ce038d-ed2a-43c2-8345-d029169b3752.png)
 
 - Executando o código main temos essas saídas
 
